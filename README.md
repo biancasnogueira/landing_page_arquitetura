@@ -22,7 +22,7 @@ Os usuários podem preencher o formulário com seus dados para entrar em contato
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/biancasnogueira/landing_page_arquitetura.git
+    git clone https://github.com/biancasnogueira/studio-archi-architecture-landing-page.git
     ```
 2. Abra o arquivo `index.html` no seu navegador.
 
