@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏛️ Projeto Landing Page - Studio Archi
 
 Bem-vindo ao repositório do projeto de Landing Page para o Studio Archi! Esta página foi desenvolvida para promover os serviços do studio de arquitetura e captar potenciais clientes.
@@ -39,3 +40,9 @@ A Landing Page está disponível online! Confira pelo link: [https://challengeba
 Acesse a planilha de registro de informações dos clientes através deste link: [https://shorturl.at/m0vI8](https://shorturl.at/m0vI8)
 
 ---
+=======
+# Desafio 1 - Resolução
+
+Link do site disponibilizado: <br>
+Link da planilha de registro de informação: https://shorturl.at/m0vI8
+>>>>>>> 9381aa1 (Adicionando media query para mobile)

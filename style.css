@@ -102,4 +102,55 @@ button:hover{
     transform: translateY(-5px);
     box-shadow: 0px 15px 20px #e4983b2d;
     transition-duration: 0.5s;
+<<<<<<< HEAD
+=======
+}
+
+@media only screen and (max-width: 600px){
+    /* Menu */
+    #menusuperior {
+        flex-direction: column;
+        height: auto;
+        text-align: left;
+    }
+
+    #titulo-menusuperior{
+        margin-left: 20px;
+    }
+
+    #texto-menusuperior{
+        margin-left: 20px;
+    }
+
+    #menuinformacional{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .texto-informativo{
+        margin: 15px 0px 10px 35px;
+    }
+
+    #menusobre{
+        flex-direction: column;
+        margin-top: 50px;
+    }
+
+    #titulo-sobre{
+        margin: 0px 0px 0px 20px;
+        padding: 0px;
+    }
+
+    #texto-sobre{
+        margin: 0px 0px 30px 20px;
+    }
+
+    .imagem{
+        margin: 0px;
+    }
+
+    #imagem-casa{
+        width: 90%;
+    }
+>>>>>>> 9381aa1 (Adicionando media query para mobile)
 }
